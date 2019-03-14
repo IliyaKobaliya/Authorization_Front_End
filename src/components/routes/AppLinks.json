@@ -1,0 +1,20 @@
+[
+    {
+        "title" :"Главная",
+        "path" : "/Home",
+        "key" : 1,
+        "id" : "Home"
+    },
+    {
+        "title" :"О нас",
+        "path" : "/About",
+        "key" : 2,
+        "id" : "About"
+    },
+    {
+        "title" :"Контакты",
+        "path" : "/Contacts",
+        "key" : 3,
+        "id" : "Contacts"
+    }
+]
